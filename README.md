@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @H-Blaze14
+- 👋 Hi, I’m @yxng_reezy07
 - 👀 I’m interested in ... learning to code in different languages.
-- 🌱 I’m currently learning ... nothing, as I have only just joined GitHub.
+- 🌱 I’m currently learning ... Python, HTML, CSS, and JS.
 - 💞️ I’m looking to collaborate on ... any group projects that teach me how to work in a team or that teach me more about coding.
 - 📫 How to reach me ... You can email me, or text me. My email is: olawunihenry@gmail.com and my number is 07851665304.
 
